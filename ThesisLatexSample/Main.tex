@@ -1,0 +1,52 @@
+\documentclass[oneside,12pt]{discsthesis}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{textcomp}
+\usepackage{gensymb}
+\usepackage{listings}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage[titletoc]{appendix}
+\usepackage{textcomp}
+\usepackage[normalem]{ulem}
+\usepackage[justification=centering]{caption}
+
+\useunder{\uline}{\ul}{}
+
+\newcolumntype{L}{>{\centering\arraybackslash}m{7.5cm}}
+
+\newcolumntype{M}{>{\centering\arraybackslash}m{3cm}}
+
+\newcolumntype{S}{>{\centering\arraybackslash}m{3.5cm}}
+
+
+\graphicspath{ {Appendices/} }
+\begin{document}
+
+ \ThesisAuthor{\textbf{Kennedy E. Espina}}
+  \ThesisTitle{\textbf{MULTIDIMENSIONAL SPATIO-TEMPORAL MODELING OF \\ COMMUNICABLE DISEASES USING TWITTER POSTS \\AND HEALTH REPORTS: VISUALIZATION, \\ CORRELATIONS, AND PREDICTION}}
+  \ThesisArea{Computer Science}
+  \ThesisDefenseYear{2015}
+%  \DefenseDate{10 July 2013}
+  %\ThesisGrade{Very Good}
+  \ThesisStyle{MS}{draft}{-10pt}{15pt}
+  % {-10pt}{15pt}
+
+  \FrontMatter
+
+\input{Abstract}
+\tableofcontents
+\listoffigures
+
+\MainMatter
+ \input{Introduction}
+ \input{ReviewOfRelatedLiterature}
+ \input{Methodology}
+
+\bibliographystyle{plain}
+\bibliography{ResearchBibliography}
+
+\addappheadtotoc
+\input{Appendix}
+\end{document}

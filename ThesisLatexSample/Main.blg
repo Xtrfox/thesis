@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Main.aux
+The style file: plain.bst
+Database file #1: ResearchBibliography.bib
+Warning--entry type for "twitterstreamingapi" isn't style-file defined
+--line 1067 of file ResearchBibliography.bib
+Warning--to sort, need author or key in twitterstreamingapi
+Warning--to sort, need author or key in GoogleGeocode
+Warning--to sort, need author or key in StemIBM
+Warning--to sort, need author or key in ibmalmaden
+Warning--empty journal in edlund2009spatiotemporal
+You've used 27 entries,
+            2118 wiz_defined-function locations,
+            660 strings with 8827 characters,
+and the built_in function-call counts, 8848 in all, are:
+= -- 836
+> -- 474
+< -- 4
++ -- 194
+- -- 164
+* -- 662
+:= -- 1485
+add.period$ -- 79
+call.type$ -- 27
+change.case$ -- 160
+chr.to.int$ -- 0
+cite$ -- 32
+duplicate$ -- 305
+empty$ -- 677
+format.name$ -- 164
+if$ -- 1821
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 23
+newline$ -- 133
+num.names$ -- 46
+pop$ -- 170
+preamble$ -- 1
+purify$ -- 134
+quote$ -- 0
+skip$ -- 216
+stack$ -- 0
+substring$ -- 467
+swap$ -- 48
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 106
+warning$ -- 5
+while$ -- 74
+width$ -- 29
+write$ -- 281
+(There were 6 warnings)

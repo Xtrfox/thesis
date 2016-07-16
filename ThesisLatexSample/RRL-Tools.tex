@@ -1,0 +1,23 @@
+\section{Data Mining and Visual Analytics Tools}
+Data mining tools are used to get meaningful information from large amount of data. Big data usually consists of petabytes of data that's constantly growing over time. Tools are developed to sift through and organize these data, and these tools usually target data based on their sources. For this research, tools developed through Twitter's Advanced Programming Interface (API) is used.
+
+\subsection{Twitter Streaming API \cite{twitterstreamingapi}}
+
+Social media APIs are known to provide developers access to the feeds of user-generated posts from different social media websites. For Twitter, they introduced \textit{Twitter Streaming API}. This API allows developers to make tools going through the feeds, which leads to different tools especialized in different industries. 
+
+Twitter provides an all-in solution for developers who are only looking for Tweets, and not actually generating them. Twitter's streaming API provides developers three streaming endpoints, namely \textit{``Public Stream"}, \textit{``User Stream"}, and \textit{``Site Stream"}. For the research, the main endpoint to be used is the Public Stream by individual users as this is mostly concerned for data mining for disease surveillance. For developers who want to generate tweets, such as those utilized in mobile applications, Twitter deployed its REST API.
+
+%\subsubsection{IBM and Twitter \cite{ibmtwitter}}
+%In 2014, IBM and Twitter partnered with each other to help enterprises in collecting data from the said social media website. The partnership focused on three aspects, namely \textit{``Integration of Twitter data with IBM analytics services on the cloud''}, \textit{``New data-intensive capabilities for the enterprise''}, and \textit{``Specialized enterprise consulting.''} IBM is known for a great portfolio of data analytics consulting and expertise, making this partnership a truly helpful one bringing tools that is leveraged on Twitter posts. A tool by IBM is used for this research to get relevant tweets concerning Influenza in the Philippines.
+
+\subsection{Geocoding and the Google Maps Geocoding API}
+
+Geocoding is the act of transforming ``aspatial locationally descriptive text'' into a spatial representation, such as the latitude and longitude \cite{goldberg2008geocoding}. Geocoding can be considered as a subset of \textit{Geographic Information Systems}, where geographic data are used for analysis \cite{cromley2011gis}. Visualizations of GIS come in the form of maps. For public health and epidemiology, it is important to graphically represent disease registries on a map, making GIS an important tool to digitally analyze data. In the context of tweets, GIS and geocoding is specially helpful for locating tweets without the correct geo-location attached to them. Since users often include their addresses in their profiles, these can be used for geo coding. Although geocoding is a very helpful way in locating addresses, inconsistency may still happen \cite{krieger2001wrong}. This may be due to a number of factors, such as inputting misspelled street addresses and multiple places having the same name. 
+
+\textit{``The Google Maps Geocoding API is a service that provides geocoding and reverse geocoding of addresses.''} \cite{GoogleGeocode}. The Google Maps Geocoding API processes HTTP requests being thrown to it. The users have the option of choosing between \textit{json} and \textit{XML} format for its output. 
+
+\subsection{R Programming Language and Environment}
+R is a statistical programming language that has also become a standard computational environment for many statisticians \cite{ihaka1996r}. The R software is used in the research to compute for correlations between social media posts and the aggregated public health data. R will only be used as a supplementary tool as this may generate additional information in the modeling of the diseases.
+
+%\subsubsection{Spatio-temporal Epidemiological Modeler}
+%****PUT STEM SAY NEXT PART***

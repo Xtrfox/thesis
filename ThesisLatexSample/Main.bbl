@@ -1,0 +1,158 @@
+\begin{thebibliography}{10}
+
+\bibitem{GoogleGeocode}
+Getting started with google maps geocoding api.
+\newblock Web.
+
+\bibitem{ibmalmaden}
+Ibm research - almaden.
+\newblock Web.
+
+\bibitem{StemIBM}
+Public health research - the spatiotemporal epidemiological modeler (stem).
+\newblock Web.
+
+\bibitem{twitterstreamingapi}
+Twitter streaming api, 2015.
+
+\bibitem{Bragazzi:2013aa}
+Nicola~Luigi Bragazzi.
+\newblock Infodemiology and infoveillance of multiple sclerosis in italy.
+\newblock {\em Mult Scler Int}, 2013:924029, 2013.
+
+\bibitem{chae2014public}
+Junghoon Chae, Dennis Thom, Yun Jang, SungYe Kim, Thomas Ertl, and David~S
+  Ebert.
+\newblock Public behavior response analysis in disaster events utilizing visual
+  analytics of microblog data.
+\newblock {\em Computers \& Graphics}, 38:51--60, 2014.
+
+\bibitem{Chew:2010aa}
+Cynthia Chew and Gunther Eysenbach.
+\newblock Pandemics in the age of twitter: content analysis of tweets during
+  the 2009 h1n1 outbreak.
+\newblock {\em PLoS One}, 5(11):e14118, 2010.
+
+\bibitem{cromley2011gis}
+Ellen~K Cromley and Sara~L McLafferty.
+\newblock {\em GIS and public health}.
+\newblock Guilford Press, 2011.
+
+\bibitem{deller2011twittering}
+Ruth Deller.
+\newblock Twittering on: Audience research and participation using twitter.
+\newblock {\em Participations}, 8(1):216--245, 2011.
+
+\bibitem{Denecke:2013aa}
+K.~Denecke, M.~Krieck, L.~Otrusina, P.~Smrz, P.~Dolog, W.~Nejdl, and
+  E.~Velasco.
+\newblock How to exploit twitter for public health monitoring?
+\newblock {\em Methods of Information in Medicine}, 52(4):326--339, 2013.
+
+\bibitem{edlund2009spatiotemporal}
+Stefan Edlund, Michal Bromberg, Gabriel Chodick, Judith Douglas, Daniel Ford,
+  Zalman Kaufman, Justin Lessler, Rachel Marom, Yossi Mesika, Roni Ram, et~al.
+\newblock A spatiotemporal model for influenza.
+\newblock 2009.
+
+\bibitem{Eysenbach:2002aa}
+Gunther Eysenbach.
+\newblock Infodemiology: The epidemiology of (mis)information.
+\newblock {\em Am J Med}, 113(9):763--5, Dec 2002.
+
+\bibitem{eysenbach2006infodemiology}
+Gunther Eysenbach.
+\newblock Infodemiology: tracking flu-related searches on the web for syndromic
+  surveillance.
+\newblock In {\em AMIA Annual Symposium Proceedings}, volume 2006, page 244.
+  American Medical Informatics Association, 2006.
+
+\bibitem{Eysenbach:2009aa}
+Gunther Eysenbach.
+\newblock Infodemiology and infoveillance: framework for an emerging set of
+  public health informatics methods to analyze search, communication and
+  publication behavior on the internet.
+\newblock {\em J Med Internet Res}, 11(1):e11, 2009.
+
+\bibitem{Eysenbach:2011aa}
+Gunther Eysenbach.
+\newblock Infodemiology and infoveillance tracking online health information
+  and cyberbehavior for public health.
+\newblock {\em Am J Prev Med}, 40(5 Suppl 2):S154--8, May 2011.
+
+\bibitem{goldberg2008geocoding}
+Daniel~W Goldberg.
+\newblock A geocoding best practices guide.
+\newblock {\em Springfield, IL: North American Association of Central Cancer
+  Registries}, 2008.
+
+\bibitem{gomide2011dengue}
+Jana{\'\i}na Gomide, Adriano Veloso, Wagner Meira~Jr, Virg{\'\i}lio Almeida,
+  Fabr{\'\i}cio Benevenuto, Fernanda Ferraz, and Mauro Teixeira.
+\newblock Dengue surveillance based on a computational model of spatio-temporal
+  locality of twitter.
+\newblock In {\em Proceedings of the 3rd International Web Science Conference},
+  page~3. ACM, 2011.
+
+\bibitem{hu2013modeling}
+Kun Hu, Christian Thoens, Simone Bianco, Stefan Edlund, Matthew Davis, Judith
+  Douglas, and James Kaufman.
+\newblock Modeling the dynamics of dengue fever.
+\newblock In {\em Social Computing, Behavioral-Cultural Modeling and
+  Prediction}, pages 486--494. Springer, 2013.
+
+\bibitem{ihaka1996r}
+Ross Ihaka and Robert Gentleman.
+\newblock R: a language for data analysis and graphics.
+\newblock {\em Journal of computational and graphical statistics},
+  5(3):299--314, 1996.
+
+\bibitem{krieger2001wrong}
+Nancy Krieger, Pamela Waterman, Kerry Lemieux, Sally Zierler, and Joseph~W
+  Hogan.
+\newblock On the wrong side of the tracts? evaluating the accuracy of geocoding
+  in public health research.
+\newblock {\em American journal of public health}, 91(7):1114, 2001.
+
+\bibitem{nascimento2014real}
+Thiago~D Nascimento, Marcos~F DosSantos, Theodora Danciu, Misty DeBoer, Hendrik
+  van Holsbeeck, Sarah~R Lucas, Christine Aiello, Leen Khatib, MaryCatherine~A
+  Bender, Jon-Kar Zubieta, et~al.
+\newblock Real-time sharing and expression of migraine headache suffering on
+  twitter: A cross-sectional infodemiology study.
+\newblock {\em Journal of medical Internet research}, 16(4):e96, 2014.
+
+\bibitem{dohrecord2015}
+Department of~Health.
+\newblock Reported cases of all reportable diseases and conditions by region.
+\newblock PDF, June 2015.
+
+\bibitem{ribarsky2014social}
+William Ribarsky, Derek~Xiaoyu Wang, and Wenwen Dou.
+\newblock Social media analytics for competitive advantage.
+\newblock {\em Computers \& Graphics}, 38:328--331, 2014.
+
+\bibitem{schmidt2012trending}
+Charles~W Schmidt.
+\newblock Trending now: using social media to predict and track disease
+  outbreaks.
+\newblock {\em Environ Health Perspect}, 120(1):30--33, 2012.
+
+\bibitem{Signorini:2011aa}
+Alessio Signorini, Alberto~Maria Segre, and Philip~M Polgreen.
+\newblock The use of twitter to track levels of disease activity and public
+  concern in the u.s. during the influenza a h1n1 pandemic.
+\newblock {\em PLoS One}, 6(5):e19467, 2011.
+
+\bibitem{Young:2014aa}
+Sean~D Young, Caitlin Rivers, and Bryan Lewis.
+\newblock Methods of using real-time social media technologies for detection
+  and remote monitoring of hiv outcomes.
+\newblock {\em Prev Med}, 63:112--5, Jun 2014.
+
+\bibitem{zeng2010social}
+Daniel Zeng, Hsinchun Chen, Robert Lusch, and Shu-Hsing Li.
+\newblock Social media analytics and intelligence.
+\newblock {\em Intelligent Systems, IEEE}, 25(6):13--16, 2010.
+
+\end{thebibliography}
